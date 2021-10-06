@@ -1,0 +1,7 @@
+body {
+  font-family: system-ui;
+  background-image: url(https://cdn.pixabay.com/photo/2018/08/17/10/04/traffic-3612474_960_720.jpg);
+  background-blend-mode: color-dodge;
+  text-align: center;
+  color: white;
+}
